@@ -1,0 +1,51 @@
+This is the user mannul of second project ----crossword helper
+
+All executable file in folder \executable
+
+\executable\main.exe is the entry of this project
+
+Project function:
+
+1. get dictionary by processing document file.
+
+2. change any dictionary format to correct format
+
+3. merge 2 different dictionaries
+
+4. query word in given format by input
+
+5. batch query word by input file
+
+Prepartion:
+
+put documents files those you want to process in \executable
+
+put dictionary you want to merge or process in \executable
+
+Command line:
+
+1. process --------------- process document to get dictionary
+
+2. selfImprove ----------- change dictionary format to correct one
+
+3. merge ----------------- merge 2 different dictionaries
+
+4. query ----------------- query word in given format by input
+
+5. fquery ---------------- batch query by input file
+
+6. exit ------------------ exit program
+
+details of usage can be queryed by 
+just input command line without any param to \executable\main.exe
+
+Output:Output has been already sorted by the frequency in dicitonary
+
+Usage:
+
+Engage \executable\main.exe and input command line into 
+main.exe to operate file and satisfy your requirement
+
+Attenetion!
+requirement file in fquery.exe can not accept any space 
+at the last of the last requirement line! 
